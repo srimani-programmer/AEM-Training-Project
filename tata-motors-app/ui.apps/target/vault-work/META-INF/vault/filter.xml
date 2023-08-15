@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/automobile/clientlibs"/>
+    <filter root="/apps/automobile/components"/>
+    <filter root="/apps/automobile/i18n"/>
+</workspaceFilter>

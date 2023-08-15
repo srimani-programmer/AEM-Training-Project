@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 17
+Implementation-Title: Vehicle App - UI config
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.tatamotors:tata-motors-app.ui.config:0.0.1-SNAPS
+ HOT
+Content-Package-Description: UI config package for Vehicle App
+Content-Package-Roots: /apps/automobile/osgiconfig
+
